@@ -1,5 +1,6 @@
 # Tampermonkey_amiami
 amiamiの小さなアイコンじゃどんなフィギュアか分からないので、詳細ページの画像に置き換えました。
+
     // ==UserScript==
     // @name         amiami
     // @namespace    http://tampermonkey.net/
